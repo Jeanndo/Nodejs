@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "all about node js",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeanndo/Nodejs.git"
+  },
+  "author": "Jeanndo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jeanndo/Nodejs/issues"
+  },
+  "homepage": "https://github.com/Jeanndo/Nodejs#readme"
+}
